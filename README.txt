@@ -1,5 +1,7 @@
-Great helps during research 
+This was my first attempt at an optimized chess engine. My current and completed attempt is Goopis found at this repo: https://github.com/KELECHIDAVIS/Goopis
 
+
+Great help during research:
 
 Sebastian League 
 Creating the Rustic chess engine - Marcel Vanthoor
